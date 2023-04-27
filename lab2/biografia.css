@@ -1,0 +1,59 @@
+*{
+    background-color: #000000
+}
+.caja1{
+    color: #070044;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #ced4da;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    text-decoration: underline; 
+    background-color: #000000;   
+}
+.caja2{
+    padding: 12px;
+    margin: right;
+    width: 80%;
+    background-color: #000000;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+
+.Titulo{
+    
+    text-align: center;
+    font: italic small-caps bolder 42px Fuente;
+    }
+.Fuente{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 30px;
+    line-height: 1.5;
+}
+.texto{   
+     
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+    text-align: justify;
+    font-size: 30px;
+    line-height: 1.5;
+}
+.texto2{     
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 30px;
+    line-height: 1.5;
+}
+.texto3{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 30px;
+    line-height: 1.5;
+}
+.texto4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 30px;
+    line-height: 1.5;
+}
